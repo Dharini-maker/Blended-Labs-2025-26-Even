@@ -110,7 +110,7 @@ I configured a user data script to automatically install Apache and deploy a web
 ### Screenshot 1: VPC and Subnet Details
 
 
-<img width="1267" height="676" alt="image" src="https://github.com/user-attachments/assets/ca3a2912-b843-40f5-8ed8-9e59b4a90fa8" />
+<img width="1266" height="661" alt="image" src="https://github.com/user-attachments/assets/756e9304-5e0e-401d-9efd-5ab0317538d0" />
 
 ![2 t12](https://github.com/user-attachments/assets/eed36bfd-8a6a-4361-9ef1-acbba213736d)
 
