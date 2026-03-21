@@ -90,12 +90,12 @@ Step 8: Generate traffic and test load balancing and automatic scaling.
 ---
 
 ## Output Screenshots 
+![c6 1](https://github.com/user-attachments/assets/324e7a5f-7c40-4e94-b488-98426be28f2c)
 
-<img src="https://img.sanishtech.com/u/55dcb4690c23a6c9d88e95790563c2f3.jpg" alt="c6.1" loading="lazy" style="max-width:100%;height:auto;">
+![c6 3](https://github.com/user-attachments/assets/67f47b93-c308-4fa1-ad59-eef1038e302f)
 
-<img src="https://img.sanishtech.com/u/1feef02368ea424706df2f98e1d61bcd.jpg" alt="c6.5" loading="lazy" style="max-width:100%;height:auto;">
+![c6 8](https://github.com/user-attachments/assets/54df1a86-fc78-4036-9a0d-141883de4c34)
 
-<img src="https://img.sanishtech.com/u/1c49f3c1b3ce29bc676e5c95512d6499.jpg" alt="c6.9" width="1908" height="983" loading="lazy" style="max-width:100%;height:auto;">
 
 ---
 
